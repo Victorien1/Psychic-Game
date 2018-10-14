@@ -1,0 +1,26 @@
+/*body*/
+body {
+    background-color: url("assets/images/psychic-72085_1280.jpg");
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    background-color: #d1d1e0;
+    
+    margin: 20px;
+    
+}
+.image {
+    width: 100px;
+    height: 100px;
+}
+  h1 {
+      text-align: center;
+
+}
+  
+  /*footer*/
+  
+.footer {
+    padding-bottom: 30px
+    clear: both;
+    text-align :center;
+}
